@@ -1,4 +1,7 @@
 ## Bem-vindo(a) ao meu perfil!! 😁
+<br>
+<p>Aqui você não vai encontrar muita coisa interessante não, viu! Estou aprendendo algumas coisas e quero ver onde isso vai dar!!</p>
+<p>Sempre curioso com linguagens de programação e desenvolvimento, dedicado aos estudos, e sempre tentando fazer algo que surge na minha cabeça dar certo!</p>
 
  <div>
    <a href="https://github.com/EdisonCake">
