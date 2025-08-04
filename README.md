@@ -1,20 +1,10 @@
-## Aqui é bagunçado, mas tem gerência! 😉
+## Olá! Eu sou o Edison Cake! 🍰
+Aqui é bagunçado, mas tem gerência! 😉
 
-<table>
-  <tr>
-    <td width="60%">
+Bem vindo(a) ao meu repositório do GitHub!
+Aqui, você vai encontrar diversos projetos em algumas linguagens como AdvPL, HTML, JavaScrpit, Java, etc...!
+Acesse diretamente meu portfolio clicando <a href="https://edisoncake.github.io/Portfolio/" target="_blank">aqui</a>.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisoncake&layout=compact&theme=dracula" alt="card"/>
-   </td>
-   <td width="40%">
-    
-   ### Olá, meu nome é Edison "Cake" 🎂!
-   Cosplayer do Miles Morales nas horas vagas, Just Dancer viciado, curioso com desenvolvimento/programação e cafeína já não faz mais efeito em mim.
-   
-   </td>
-  </tr>
- </table>
- 
 <div align="center">
 🕷️ 🖥️ ☕
 </div>
